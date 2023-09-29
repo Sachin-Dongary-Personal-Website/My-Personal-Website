@@ -39,14 +39,14 @@ nav {
   position: relative;
 }
 
-.nav-links ul li a {
+.nav-links-a {
   color: white;
   text-decoration: none;
   font-size: 40px;
   transition: text-decoration 0.5s;
 }
 
-.nav-links ul li a:hover {
+.nav-links-a:hover {
   text-decoration: underline;
 }
 
